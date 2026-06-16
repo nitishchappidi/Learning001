@@ -1,3 +1,3 @@
 # Learning001
 
-This is the description of README File.
+This is the Description of README File
